@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python code is created to simulate the channel behaviour applying Aloha and CSMA protocols in a environment of devices performing direct link communication. 
+This Python code is created to simulate the channel behaviour applying Aloha and CSMA protocols in a environment of devices performing direct device-to-device communication. 
 
 The simulation has been created as a part of a thesis.
 
